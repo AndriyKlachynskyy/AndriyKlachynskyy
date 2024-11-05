@@ -11,7 +11,7 @@ Adoro programar em linguagem com o paradigma procedural e onde os tipos sejam es
 ## Linguagens que uso
 
 <div>
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg](https://en.wikipedia.org/wiki/Rust_%28programming_language%29#/media/File:Rust_programming_language_black_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/121px-Rust_programming_language_black_logo.svg.png)" width="50px" />
+    <img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" width="50px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="50px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px" />          
