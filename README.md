@@ -1,7 +1,7 @@
 # 💻 Andriy Klachynskyy
 
 ```rs
-pub andriy_klachynskyy() -> i32
+pub fn andriy_klachynskyy() -> i32
 ```
 
 Sou um estudante da INETE que busca ter um futuro na área da programação com o
